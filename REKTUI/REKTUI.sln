@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REKTUI", "REKTUI\REKTUI.csproj", "{4645C587-0B28-4550-98E1-6AB3F6EA2D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyPlot.WindowsForms", "OxyPlot.WindowsForms\OxyPlot.WindowsForms.csproj", "{8BC521AD-81CF-4E6C-8898-BE67527E7064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyPlot_NET40", "OxyPlot\OxyPlot_NET40.csproj", "{1C1D9807-BE39-40A4-87DE-3F81E7C651E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4645C587-0B28-4550-98E1-6AB3F6EA2D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4645C587-0B28-4550-98E1-6AB3F6EA2D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4645C587-0B28-4550-98E1-6AB3F6EA2D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4645C587-0B28-4550-98E1-6AB3F6EA2D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC521AD-81CF-4E6C-8898-BE67527E7064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC521AD-81CF-4E6C-8898-BE67527E7064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC521AD-81CF-4E6C-8898-BE67527E7064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC521AD-81CF-4E6C-8898-BE67527E7064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1D9807-BE39-40A4-87DE-3F81E7C651E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1D9807-BE39-40A4-87DE-3F81E7C651E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1D9807-BE39-40A4-87DE-3F81E7C651E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1D9807-BE39-40A4-87DE-3F81E7C651E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

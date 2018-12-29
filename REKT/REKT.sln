@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "REKT", "REKT.vcxproj", "{B1C51730-90BE-4333-8950-3946F1CAEC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C51730-90BE-4333-8950-3946F1CAEC3D}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{B1C51730-90BE-4333-8950-3946F1CAEC3D}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{B1C51730-90BE-4333-8950-3946F1CAEC3D}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{B1C51730-90BE-4333-8950-3946F1CAEC3D}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
