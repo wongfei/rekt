@@ -2,6 +2,9 @@
 
 Cheap DIY tool for testing rotary engines!
 
+![img](img/rekt2.jpg)
+
+
 ## Hardware required
 
 STM32F103C8T6 (price 4$)
@@ -33,6 +36,7 @@ Anderson Metals Brass Threaded Pipe Fitting, Hex Bushing, 1/4" Male x 1/8" Femal
 
 ![img](img/fitting.jpg)
 
+
 ## Assembling
 
 ![img](img/stm32_pinout.jpg)
@@ -40,6 +44,7 @@ Anderson Metals Brass Threaded Pipe Fitting, Hex Bushing, 1/4" Male x 1/8" Femal
 ![img](img/rekt_prototype.jpg)
 
 ![img](img/pressure_transducer_complete.jpg)
+
 
 ## Software
 
@@ -50,6 +55,7 @@ I'm lazy and using VisualGDB (included REKT.sln)
 GUI app can be compiled via Visual Studio 2015 Community (open REKTUI.sln)
 
 Download [precompiled files](https://drive.google.com/open?id=1Uk5_f99KuZ31ZU57AfIUuFaROBHKnBr2)
+
 
 ## Testing
 
